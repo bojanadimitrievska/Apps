@@ -1,0 +1,65 @@
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Ivo\Desktop\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+D:\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+D:\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+D:\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+D:\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\two apps\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+D:\two apps\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+D:\191053\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+D:\191053\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+D:\191053\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+D:\191053\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\191053\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+D:\191053\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb

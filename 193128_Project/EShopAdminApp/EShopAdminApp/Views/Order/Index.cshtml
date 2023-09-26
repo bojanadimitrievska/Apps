@@ -1,0 +1,48 @@
+﻿@model List<EShopAdminApp.Models.Order>
+
+
+<h2>Orders</h2>
+
+
+
+<div class="row">
+    <a class="btn btn-outline-success" asp-controller="Order" asp-action="ExportAllOrders">Export orders</a>
+</div>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="col-md-1">#</th>
+            <th class="col">Customer details</th>
+            <th class="col">No. of movies</th>
+            <th class="col"></th>
+            <th class="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var i = 1;
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @(i++)
+                    </td>
+                    <td>
+                        @item.OrderBy.Username
+                    </td>
+                    <td>
+                        @item.Tickets.Count
+                    </td>
+                    <td>
+                        <a class="btn btn-info" href="/Order/GetOrderDetails/@item.Id">Details</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" href="/Order/SavePdf/@item.Id">Create Invoice</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

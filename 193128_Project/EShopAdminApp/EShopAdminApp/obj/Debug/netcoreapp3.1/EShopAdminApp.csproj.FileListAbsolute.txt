@@ -1,0 +1,442 @@
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.StaticWebAssets.xml
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.exe
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.deps.json
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.json
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.dev.json
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.AssemblyReference.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.Manifest.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.xml
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EShopAdminApp.styles.css
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.input.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.output.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorCoreGenerate.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CopyComplete
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.genruntimeconfig.cache
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Ivo\source\repos\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\GetOrderDetails.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.StaticWebAssets.xml
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.exe
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.deps.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.Manifest.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.xml
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\EShopAdminApp.styles.css
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.input.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.output.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorCoreGenerate.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\GetOrderDetails.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CopyComplete
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.StaticWebAssets.xml
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.exe
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.deps.json
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.json
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.dev.json
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.pdb
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\191053\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.AssemblyReference.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfoInputs.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfo.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CoreCompileInputs.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.Manifest.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.xml
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.input.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.output.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorCoreGenerate.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\GetOrderDetails.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cache
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cs
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CopyComplete
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.dll
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.pdb
+D:\191053\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.genruntimeconfig.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.StaticWebAssets.xml
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.exe
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.deps.json
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.json
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.runtimeconfig.dev.json
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.AssemblyInfo.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.Pack.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EShopAdminApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EShopAdminApp.props
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EShopAdminApp.props
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EShopAdminApp.props
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\staticwebassets\EShopAdminApp.StaticWebAssets.xml
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.input.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.TagHelpers.output.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorCoreGenerate.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\GetOrderDetails.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.Views.pdb
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.csproj.CopyComplete
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.dll
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.pdb
+C:\Users\User\Downloads\193128_domashna\EShopAdminApp\EShopAdminApp\obj\Debug\netcoreapp3.1\EShopAdminApp.genruntimeconfig.cache

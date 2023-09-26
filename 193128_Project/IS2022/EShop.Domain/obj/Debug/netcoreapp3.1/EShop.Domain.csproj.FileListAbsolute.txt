@@ -1,0 +1,50 @@
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\Ivo\Desktop\ivo\integrirani sistemi\aud project\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+D:\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\two apps\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\two apps\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\191053\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+D:\191053\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\191053\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+D:\191053\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.deps.json
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\User\Downloads\ISistemi-main (2)\ISistemi-main\193128_domashna\IS2022\EShop.Domain\obj\Debug\netcoreapp3.1\EShop.Domain.pdb
